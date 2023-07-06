@@ -8,7 +8,7 @@ permalink: /
 # Bienvenido! 
 
 <p style="padding: 1em 1em; background: #F5F5F5; border-radius: 4px;">
-  Te recomiendo empezar por acá <span style="font-weight: bold">[[Your First Note]]</span>
+  Te recomiendo empezar por acá <span style="font-weight: bold">[[Las dos manos]]</span>
 </p>
 
 <strong>Últimos artículos</strong>
@@ -26,6 +26,9 @@ Espero que los disfrutes.
 
 Si querés recibir estos artículos de forma semanal, sumate [**acá**](https://tomasbrizuela.crd.co/)
 
+<p 
+  Te recomiendo empezar por acá [acá](https://tomasbrizuela.crd.co/)</span>
+</p>
 
 <style>
   .wrapper {
