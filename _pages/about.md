@@ -4,6 +4,17 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+## ¿Quién soy?
 
-Feel free to tell the world about what you love! 😍
+Mi nombre es Tomás Brizuela.
+Desde mayo del 2022 creo contenido para redes sociales.
+
+Empecé compartiendo contenido sobre notion, en Twitter, y logré una audiencia de más de 2000 seguidores.
+
+Participé en eventos presenciales.
+Di charlas sobre notion.
+
+Creé un curso.
+
+Y actualmente presto servicios relacionados a las herramientas no code.
+

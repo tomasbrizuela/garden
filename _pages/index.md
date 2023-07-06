@@ -22,6 +22,8 @@ permalink: /
   {% endfor %}
 </ul>
 
+Espero que disfrutes.
+Si querés recibir estos artículos de forma semanal, te podés sumarte [acá](https://tomasbrizuela.crd.co/)
 <style>
   .wrapper {
     max-width: 46em;
