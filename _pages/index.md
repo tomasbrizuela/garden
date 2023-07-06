@@ -22,13 +22,17 @@ permalink: /
   {% endfor %}
 </ul>
 
+---
+
+<p style="padding: 1em 1em; background: #F5F5F5; border-radius: 4px;">
+  Si querés ver la lista completa de artículos, entrá  <span style="font-weight: bold">[[Todos los artículos]]</span>
+</p>
+
 Espero que los disfrutes.
 
 Si querés recibir estos artículos de forma semanal, sumate [**acá**](https://tomasbrizuela.crd.co/)
 
-<p 
-  Te recomiendo empezar por acá [acá](https://tomasbrizuela.crd.co/)</span>
-</p>
+
 
 <style>
   .wrapper {
