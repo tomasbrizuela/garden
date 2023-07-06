@@ -20,7 +20,7 @@ Si querés recibir estos artículos, de forma semanal, sumate [**acá**](https:/
  Si primero querés leer algún artículo, te recomiendo empezar por este -> <span style="font-weight: bold">[[Las dos manos]]</span>
 </p>
 
-<strong>O también podés leer alguno de mis últimos artículos</strong>
+<strong>O por los últimos artículos que publiqué:</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
