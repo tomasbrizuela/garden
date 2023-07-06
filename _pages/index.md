@@ -7,8 +7,8 @@ permalink: /
 
 # Bienvenido! 
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Te recomiendo empezar por acá <span style="font-weight: bold">[[Your first note]]</span>
+<p style="padding: 3em 1em; background: #F5F5F5; border-radius: 4px;">
+  Te recomiendo empezar por acá <span style="font-weight: bold">[[Your First Note]]</span>
 </p>
 
 <strong>Últimos artículos</strong>
@@ -22,8 +22,9 @@ permalink: /
   {% endfor %}
 </ul>
 
-Espero que disfrutes.
-Si querés recibir estos artículos de forma semanal, te podés sumarte ![acá](https://tomasbrizuela.crd.co/)
+Espero que los disfrutes.
+
+Si querés recibir estos artículos de forma semanal, sumate [**acá**](https://tomasbrizuela.crd.co/)
 
 
 <style>
