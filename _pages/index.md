@@ -5,13 +5,13 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Bienvenido! 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Te recomiendo empezar por acá <span style="font-weight: bold">[[Your first note]]</span>
 </p>
 
-<strong>Recently updated notes</strong>
+<strong>Últimos artículos</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
