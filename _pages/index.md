@@ -7,11 +7,9 @@ permalink: /
 
 # Bienvenido! 
 
-Correos semanales donde te cuento mis aprendizajes escribiendo en internet para crear audiencias y vender productos y servicios.
+Cada semana, envío un correo donde te cuento mis aprendizajes escribiendo en internet para crear audiencias y vender productos y servicios.
 
-<p style="padding: 1em 1em; background: #F5F5F5; border-radius: 4px;">
-  Si querés ver la lista completa de artículos, entrá  <span style="font-weight: bold">[[Todos los artículos]]</span>
-</p>
+Si querés recibir estos artículos de forma semanal, sumate [**acá**](https://tomasbrizuela.crd.co/)
 
 <p style="padding: 1em 1em; background: #F5F5F5; border-radius: 4px;">
   Te recomiendo empezar por acá <span style="font-weight: bold">[[Las dos manos]]</span>
@@ -30,11 +28,15 @@ Correos semanales donde te cuento mis aprendizajes escribiendo en internet para 
 
 ---
 
+<p style="padding: 1em 1em; background: #F5F5F5; border-radius: 4px;">
+  Si querés ver la lista completa, estos son  <span style="font-weight: bold">[[Todos los artículos]]</span>
+</p>
+
 
 
 Espero que los disfrutes.
 
-Si querés recibir estos artículos de forma semanal, sumate [**acá**](https://tomasbrizuela.crd.co/)
+
 
 
 
