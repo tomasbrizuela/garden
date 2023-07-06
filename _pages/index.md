@@ -7,15 +7,20 @@ permalink: /
 
 # Bienvenido! 
 
-Cada semana, envío un correo donde te cuento mis aprendizajes escribiendo en internet para crear audiencias y vender productos y servicios.
+Cada semana, te envío un correo donde te cuento mis aprendizajes escribiendo en internet.
 
-Si querés recibir estos artículos de forma semanal, sumate [**acá**](https://tomasbrizuela.crd.co/)
+Y todos los secretos que aprendí creando audiencias y vendiendo productos y servicios.
+
+
+Si querés recibir estos artículos, de forma semanal, en tu correo, sumate [**acá**](https://tomasbrizuela.crd.co/)
+
+
 
 <p style="padding: 1em 1em; background: #F5F5F5; border-radius: 4px;">
-  Te recomiendo empezar por acá <span style="font-weight: bold">[[Las dos manos]]</span>
+ Si primero querés leer algún artículo, te recomiendo empezar por acá <span style="font-weight: bold">[[Las dos manos]]</span>
 </p>
 
-<strong>Últimos artículos</strong>
+<strong>O, podés leer mis últimos artículos</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
