@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Tomás Brizuela
 id: home
 permalink: /
 ---
